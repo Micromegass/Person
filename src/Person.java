@@ -6,9 +6,16 @@ public class Person {
 	
 	
 	Person(String name) {
-		
 		this.name = name;
 	}
+	
+	
+	//overloading constructor
+	Person() {
+		
+		
+	}
+	
 	
 	
 	String getFirstName() {

@@ -2,6 +2,10 @@
 public class PersonTest {
 
 	    public static void main(String[] args) {
+	    	
+			//possible because of overloading
+	    	Person p1 = new Person(); 
+
 	       
 	    	int i = 45; 
 	    	Integer value = i; 			//autoboxing 
@@ -18,6 +22,7 @@ public class PersonTest {
 	    
 	
 
+	    
 	
 		
 		
